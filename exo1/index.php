@@ -17,7 +17,7 @@
             <input type="text" name="prenom" id="prenom">
         </p>
         <p>
-            <input type="submit" value="Valider">
+            <input type="submit" value="Se connecter">
         </p>
 
     </form>
